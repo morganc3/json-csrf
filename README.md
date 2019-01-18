@@ -1,4 +1,5 @@
 # json-csrf
+For demonstrating a CSRF attack sending JSON data using Flash. 
 
 ### How to use
 
